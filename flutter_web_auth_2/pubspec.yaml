@@ -32,6 +32,8 @@ flutter:
         pluginClass: FlutterWebAuth2Plugin
       ios:
         pluginClass: FlutterWebAuth2Plugin
+      linux:
+        dartPluginClass: FlutterWebAuth2LinuxPlugin
       macos:
         pluginClass: FlutterWebAuth2Plugin
       web:
